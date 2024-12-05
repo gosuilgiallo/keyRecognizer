@@ -51,7 +51,8 @@ The project is grounded in tonal music theory, which defines a key as a collecti
   - **Functional harmony**: Tonic, dominant, and subdominant relationships.
 
 By leveraging these principles, the system can accurately recognize keys based on the chords provided.
-## Skills and concepts demonstrated ##
+## Skills and concepts involved ##
+Contributes to this project will be appreciated, you can improve these aspects of your knowedge:
 
   - **Prolog Programming**:
       - Use of facts to define keys and their chords.
