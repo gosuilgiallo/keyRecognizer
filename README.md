@@ -76,7 +76,7 @@ Contributes to this project will be appreciated, you can improve these aspects o
 
 Test the system with your chords:
 ```
-    ?- find_key([c, g, f_minor], Key).
+?- find_key([c, g, f_minor], Key).
 ```
 ### _What are the potential future enhancements?_ ###
 
