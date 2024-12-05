@@ -65,7 +65,7 @@ By leveraging these principles, the system can accurately recognize keys based o
   - **Problem Solving**:
       - Mapping a music theory problem to a computational logic model.
 
-## How to run the Project##
+## How to run the Project ##
 
   Install a Prolog interpreter, such as SWI-Prolog.
   Load the program file:
