@@ -15,9 +15,9 @@ This project is a key recognition system written in Prolog, capable of identifyi
         - **Minor chords**: c_minor, g_minor, a_sharp_minor, etc.
         - **Diminished chords**: b_dim, f_sharp_dim, etc.
 
-  Logic: The system checks if the input chords are a subset of the chords in each predefined key. If a match is found, the corresponding key is returned.
+  **Logic**: The system checks if the input chords are a subset of the chords in each predefined key. If a match is found, the corresponding key is returned.
 
-  Output: The recognized key(s) are displayed as Prolog atoms, e.g., c_major or a_minor.
+  **Output**: The recognized key(s) are displayed as Prolog atoms, e.g., c_major or a_minor.
 
 ### Use case example ###
 
